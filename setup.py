@@ -10,6 +10,7 @@ CONSOLE_SCRIPTS = [
 ]
 
 INSTALL_REQUIRES = [
+    'pyperclip'
 ]
 
 EXTRAS_REQUIRE = {}
